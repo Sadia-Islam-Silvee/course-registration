@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/xgW36VX/Rectangle-2-2.png",
+    "title": "Introduction to C Programming",
+    "paragraph": "Kickstart your programming journey with the fundamentals of the C programming language. Learn about variables, loops, and functions.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/6sYYyLR/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "paragraph": "Delve into the world of algorithms and problem-solving. Understand sorting, searching, and algorithmic complexity.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/vdtsg7N/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA ",
+    "paragraph": "Learn C++ with a focus on data structures and algorithms. Implement key data structures and solve algorithmic challenges.",
+    "price": 10000,
+    "credit": 3
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/ccWWkJQ/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "paragraph": "Master the essential data structures used in programming, including arrays, linked lists, and trees.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/TRcGC4M/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
+    "paragraph": "Explore the principles of object-oriented programming (OOP) using Python. Create classes and objects to build software.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/ZTmshf9/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "paragraph": "Gain insights into the software development lifecycle, from requirements analysis to testing and maintenance.",
+    "price": 23000,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/xCgb1Vh/Rectangle-3-1.png",
+    "title": "AWS, Cloud Computing",
+    "paragraph": "Learn cloud computing with AWS. Explore services like EC2, S3, and Lambda to deploy scalable applications.",
+    "price": 35000,
+    "credit": 5
+  },
+
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/TKpT9tg/Rectangle-2-1.png",
+    "title": "Database with MySQL",
+    "paragraph": "Learn database management using MySQL. Design schemas, write SQL queries, and manage database systems.",
+    "price":19000,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/RgrzKzb/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
+    "paragraph": "Enhance your problem-solving skills with this course. Learn strategies to tackle complex coding challenges.",
+    "price": 23000,
+    "credit": 2
+  }
+]
